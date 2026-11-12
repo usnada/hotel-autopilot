@@ -2,6 +2,14 @@
 
 Proyek AI Agent otonom yang bekerja 24 jam penuh untuk melakukan scraping data hotel Bali, analisis AI, pembuatan artikel blog, serta publikasi otomatis secara berkala setiap 2 jam.
 
+
+## 🌐 Live Services & Multi-Platform Publishing
+- **Web Dashboard**: [https://task.usnada.com](https://task.usnada.com)
+- **WordPress Live Category**: [https://wp.puna.web.id/category/hotel-bali/](https://wp.puna.web.id/category/hotel-bali/)
+- **TikTok Automated Channel**: [@namrucoding](https://www.tiktok.com/@namrucoding)
+- **X (Twitter) Channel**: [@usnada](https://x.com/usnada)
+- **GitHub Repository**: [https://github.com/usnada/hotel-autopilot](https://github.com/usnada/hotel-autopilot)
+
 ## 🚀 Fitur Utama
 - **Scraper Modul (`scraper.js`)**: Mengambil data direktori hotel valid di Bali (Kuta, Canggu, Seminyak, Ubud).
 - **AI Content Generator (`generator.js`)**: Menyusun artikel blog SEO-friendly lengkap dengan prompt gambar estetis.
